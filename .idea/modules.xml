@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/asm-study.iml" filepath="$PROJECT_DIR$/.idea/asm-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asm-study-aop/asm-study-aop.iml" filepath="$PROJECT_DIR$/asm-study-aop/asm-study-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asm-study-dynamicbean/asm-study-dynamicbean.iml" filepath="$PROJECT_DIR$/asm-study-dynamicbean/asm-study-dynamicbean.iml" />
     </modules>
   </component>
 </project>
