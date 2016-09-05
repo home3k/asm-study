@@ -12,7 +12,9 @@
     </properties>
 
     <modules>
+        <module>asm-study-aop</module>
         <module>asm-study-dynamicbean</module>
+        <module>asm-study-hotfix</module>
     </modules>
 
     <build>
